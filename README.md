@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdlatelefonica
 - 👀 I’m interested in snowboarding
 - 🌱 I’m currently learning django
-- 📫 How to reach me manuel.delunaamat@telefonica.com or: m a n u d e l u n a@gmail.com (no spaces, they are to avoid possible spam)
+- 📫 How to reach me manuel.delunaamat@telefonica.com or: m a n u d e l u n a @gmail.com (no spaces, they are to avoid possible spam)
 - ⚡ Fun fact: cats are not cool
 
 <!---
